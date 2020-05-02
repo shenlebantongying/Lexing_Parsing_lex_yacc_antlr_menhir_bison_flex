@@ -1,5 +1,7 @@
 # flex-bison-calculator
 
+Feel free to send me a message.
+
 ## usage
 
 Recent version of Flex & Bison. Just use `make`.
