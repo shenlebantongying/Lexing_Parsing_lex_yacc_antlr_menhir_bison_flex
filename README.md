@@ -28,3 +28,7 @@ out:3
 <https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/>
 
 <https://epaperpress.com/lexandyacc/calcl.html>
+
+---
+
+The .tab.c file is somehow "table" file
